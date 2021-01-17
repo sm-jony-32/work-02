@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    line-height: 1.7;
+    
+    
+}
+.tobar{
+    background-color: #FFFBF0;!important;
+}
+.introduce{
+        background-color: #FFFBF0;
+}
+.topbar img{
+    width: 50%;
+}
+.navig{
+    color: #FFFBF0;
+    font-weight: 600;
+
+}
+.txt-1{
+    color: #FABE4C;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.txt-2{
+    color: #363958;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.first-btn{
+    background-color: #8EA927;
+    padding: 5px 40px;
+    color:#fff;
+    font-weight: 550;
+}
+.introduce-txt img{
+    width:30%;
+}
+
+.cst-btn img{
+    width:30%;
+}
+.card-img{
+    background-color: #F1F1F1;
+}
+
+.women-btn{
+    background-color: #94AE2F;
+    border-radius: 5%;
+    padding: 5px 20px;
+    cursor:pointer;
+    color:#fff;
+}
+
+
+
+.shiping-logo{
+    width:50%;
+}
+
+.price{
+    color: #FABE4C;
+}
+
+.women-heading{
+    color: #363958;
+}
+
+.card-img{
+    height: 350px;
+}
+
+.feed-element img{
+    width: 40%;
+}
+.feedback-sec{
+     background-color: #FFFBF0;;
+}
+.contact-sec{
+    text-align: center;
+    margin-top: 50px;
+    width:50%;
+    margin: 0 auto;
+    
+}
+.cnt-form{
+    background-color: #FFFBF0;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #A4BC46;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #FA7162;
+  }
+  footer{
+    background-color: #A4BC46;
+    color: #fff;
+}
+
